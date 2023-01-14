@@ -7,7 +7,7 @@ setup(
     author_email="reydigls@gmail.com",
     description="Cleaning script",
     long_description="This is our the very usefull programm",
-    url="",
+    url="https://github.com/Andrey804/HomeWork7",
     classifiers=[
         "Python version :: Python :: 3",
         "Licence :: OSI Approved :: MIT Licence",
